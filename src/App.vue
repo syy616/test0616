@@ -2,6 +2,7 @@
   <div id="app">   
     <router-view/>
     <MainTabbar></MainTabbar>
+    <p></p>
   </div>
 </template>
 
